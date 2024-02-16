@@ -9,6 +9,8 @@ This code is an evolution of `rl-pytorch` provided with NVIDIA's Isaac GYM.
 Only PPO is implemented for now. More algorithms will be added later.
 Contributions are welcome.
 
+THIS IS EPIC>
+
 **Maintainer**: David Hoeller and Nikita Rudin <br/>
 **Affiliation**: Robotic Systems Lab, ETH Zurich & NVIDIA <br/>
 **Contact**: rudinn@ethz.ch
